@@ -1,0 +1,11 @@
+.env
+__pycache__
+refactored_code.py
+temp/
+.streamlit
+app.py
+*.zip
+.venvCodeAgentGitLab
+.myenv/
+temp_refactored_repo/
+node_modules/

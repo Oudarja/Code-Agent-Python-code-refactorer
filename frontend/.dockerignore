@@ -1,0 +1,11 @@
+# node_modules/
+# build/
+# dist/
+# .next/
+# .env
+
+node_modules
+.next
+.env*
+Dockerfile
+.dockerignore
